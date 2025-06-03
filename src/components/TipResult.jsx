@@ -44,7 +44,7 @@ const TipResult = ({ bill, tipPercentage, peopleNumber, error, reset }) => {
         </div>
       </div>
       <div className='result-bottom'>
-        <button onClick={resetData} className='result-button'>
+        <button type='button' onClick={resetData} className='result-button'>
           RESET
         </button>
       </div>

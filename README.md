@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/PetarR21/tip-calculator-app](https://github.com/PetarR21/tip-calculator-app)
+- Live Site URL: [https://tip-calculator-app-tau-murex.vercel.app/](https://tip-calculator-app-tau-murex.vercel.app/)
 
 ## My process
 
